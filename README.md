@@ -23,3 +23,7 @@
 |    [AI+X 중간](https://github.com/KANGIMGU/2023_AI-X_SeoulBusEDA.git)     |     AI+X 선도인재양성 중간      |     서울시 버스데이터 EDA     | 2023.03.10 ~ 2023.04.21 |
 |    [RAINBOW](https://github.com/KANGIMGU/gradproject_facelandmark.git)     |     졸업프로젝트      |     퍼스널 컬러 진단 앱     | 2023.03.13 ~  |
 |    [AI+X 기말-1](https://github.com/KANGIMGU/2023_AI-X_sensor_EDA.git)     |     AI+X 선도인재양성 기말      |     스마트폰 동작센서 EDA     | 2023.04.28 ~ 2023.05.19 |
+
+<div align="center" display="flex">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=imgu99)](https://solved.ac/imgu99)
